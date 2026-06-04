@@ -52,8 +52,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/calindori-26.04.0.tar.xz",
-                    "sha256": "bcd7dff8b5325ff0d05535f2a3ca5447b76658f8a73bd2b40c39ee15aaa222e2",
+                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/calindori-26.04.2.tar.xz",
+                    "sha256": "176ccd028c0a9adc56407fa416b8efc24657709e1e5b65c3f9413f1a31dd000e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
