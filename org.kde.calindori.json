@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/6.24/kpeople-6.24.0.tar.xz",
-                    "sha256": "d3e267753eb64c3bbba8e4af4a4503695ee62d015b30c2dad1a1f1343890fea4",
+                    "url": "https://download.kde.org/stable/frameworks/6.26/kpeople-6.26.0.tar.xz",
+                    "sha256": "bd1092cd9900d0ee3b3d08d0971e669a82d1a11c9bec6e2322d713b59191b873",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -52,8 +52,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/calindori-26.04.0.tar.xz",
-                    "sha256": "bcd7dff8b5325ff0d05535f2a3ca5447b76658f8a73bd2b40c39ee15aaa222e2",
+                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/calindori-26.04.2.tar.xz",
+                    "sha256": "176ccd028c0a9adc56407fa416b8efc24657709e1e5b65c3f9413f1a31dd000e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
